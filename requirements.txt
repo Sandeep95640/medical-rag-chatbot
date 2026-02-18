@@ -7,5 +7,4 @@ langchain-huggingface
 faiss-cpu
 sentence-transformers
 python-dotenv
-torch
 huggingface-hub
